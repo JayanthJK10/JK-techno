@@ -1,2 +1,2 @@
 # JK-techno
-practicing webhook
+practicing webhook config
